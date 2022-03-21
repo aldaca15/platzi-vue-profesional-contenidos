@@ -1,7 +1,7 @@
 # platzi-vue-profesional-contenidos
 # Ejemplos del curso Profesional de Vue.js
 
-> Web app para el [Curso Profesional de Vue.js](http://platzi.com/vue)
+> Web app para el [Curso Profesional de Vue.js](https://platzi.com/cursos/vuejs-profesional/)
 >  GitHub [Oficial](https://github.com/platzi/platzi-music-vue)
 
 # Indice para descarga de archivos de curso en GitHub
